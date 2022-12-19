@@ -15,3 +15,10 @@ _Fitur Blade_
 [@yield] : Berguna untuk memberi tanda bagian yang akan digunakan oleh child view
 [@section] : Berguna untuk membuat bagian pada child yang extend pada layouts
 [@include] : Berguna untuk memanggil baris kode 
+
+# 3.)Model, Collection & Controller
+
+[Model] : Model merupakan bagian yang mengolah data dalam paradigma OOP
+[Controller] : Controller adalah jembatan yang mengatur proses logika, data, dan lain lain antara View dan Model
+[Collection] : Collection adalah fitur pada Laravel yang memudahkan developer mengatur dan mengolala Data Array
+[Eloquent-ORM] : Eloquent merupakan fitur Laravel yang merupakan sebuah ORM yaitu Object Relational Mapper yang membuat developer lebih mudah berinteraksi dengan Database
